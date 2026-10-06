@@ -1,4 +1,4 @@
-var subdomains = [
+[2026/10/6 17:12] 张书苏-YD-CN: var subdomains = [
     'thu',  // 清华大学 (Tsinghua University)
     'pku',  // 北京大学 (Peking University)
     'fdu',  // 复旦大学 (Fudan University)
@@ -33,16 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    'wanwushequ@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+ 'daqbqrri.cc/', 
+ 'pnbjecbuh.cc/', 
+    'jlpqgaxl.cc/', 
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://wanwu52.com";
 
 var newestUrls = [];
 
@@ -51,20 +51,22 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+ 'https://wanwuu.pages.dev',
+ 'https://wanwuu.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
-	JumpPage,
-	'https://52crdh.com',
-	
+    'https://wanwusm.net',
+ 'https://wanwusq.net',
+ 'https://smwanwu.net',
+ 'https://wanwusm.org',
+ 'https://wanwusm.io',
+ 'https://wanwuu.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
     //'* 为了防止域名劫持而无法访问，请设置手机和PC的DNS，我们推荐使用8.8.8.8和1.1.1.1。',
     '* 大陆地区用户我们建议您可以使用VPN或者代理的方式来访问我们的永久地址。',
-	'* 大陆地区用户我们强烈建议您截图收藏当前页面。'
+ '* 大陆地区用户我们强烈建议您截图收藏当前页面。'
 ];
 
 //生成从minNum到maxNum的随机数
@@ -128,12 +130,11 @@ window.onload = function () {
     logoElem.setAttribute('id', 'logo');
     logoElem.innerHTML = ' <img src="logo.png"  width="180" style="margin-bottom: 10px;"/>'
     mainElem.appendChild(logoElem);
-
-    //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
+[2026/10/6 17:12] 张书苏-YD-CN: //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问52成人导航'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问玩物社区'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
