@@ -1,4 +1,4 @@
-[2026/10/6 17:12] 张书苏-YD-CN: var subdomains = [
+var subdomains = [
     'thu',  // 清华大学 (Tsinghua University)
     'pku',  // 北京大学 (Peking University)
     'fdu',  // 复旦大学 (Fudan University)
@@ -130,7 +130,7 @@ window.onload = function () {
     logoElem.setAttribute('id', 'logo');
     logoElem.innerHTML = ' <img src="logo.png"  width="180" style="margin-bottom: 10px;"/>'
     mainElem.appendChild(logoElem);
-[2026/10/6 17:12] 张书苏-YD-CN: //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
+ //收藏  ‘<br /> \n <br /> <br /> 按 <font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
