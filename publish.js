@@ -42,7 +42,7 @@ var urls=[
 	'pnbjecbuh.cc',
 ];                                                                                                                  
 
-var JumpPage="https://wanwu52.com";
+var JumpPage="https://wanwu53.com";
 
 var newestUrls = [];
 
