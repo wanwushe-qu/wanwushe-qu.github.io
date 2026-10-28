@@ -42,7 +42,7 @@ var urls=[
 	'vc40p53k.cc',
 ];                                                                                                                  
 
-var JumpPage="https://wanwu54.com";
+var JumpPage="https://wanwu57.com";
 
 var newestUrls = [];
 
