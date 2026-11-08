@@ -37,9 +37,9 @@ var emails = [
 ];
 
 var urls=[
+	'jfuymvkm.cc',
 	'nszzfxqe.cc',
 	'pgaxovvye.cc',
-	'teeztbrc.cc',
 ];                                                                                                                  
 
 var JumpPage="https://wanwu58.com";
