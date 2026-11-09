@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
+	'xcuoerbx.cc',
 	'jfuymvkm.cc',
 	'nszzfxqe.cc',
-	'pgaxovvye.cc',
 ];                                                                                                                  
 
-var JumpPage="https://wanwu58.com";
+var JumpPage="https://wanwu59.com";
 
 var newestUrls = [];
 
