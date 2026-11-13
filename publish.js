@@ -42,7 +42,7 @@ var urls=[
 	'jfuymvkm.cc',
 ];                                                                                                                  
 
-var JumpPage="https://wanwu59.com";
+var JumpPage="https://wanwu60.com";
 
 var newestUrls = [];
 
